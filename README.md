@@ -1,3 +1,6 @@
+![Github Banner](https://github.com/user-attachments/assets/2cf01510-6334-44fd-8fd8-c0eaf11c2572)
+
+
 🎓 I’m a sophomore at Texas State University, majoring in Computer Science.
 
 💻 I’m passionate about front-end development and love creating visually appealing and user-friendly websites. My skillset includes HTML, CSS, JavaScript, React, Python, and C++. I have a solid foundation in Data Structures & Algorithms (DSA), and Object-Oriented Programming (OOP), which allows me to design efficient algorithms and optimize the performance of the applications I develop.
