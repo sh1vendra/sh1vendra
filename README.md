@@ -9,4 +9,4 @@
 
 🎯 I approach my development journey with a strong learner’s mindset, continuously striving to expand my expertise. Whether it’s mastering new frameworks, refining best coding practices, or optimizing application performance, I am committed to improving my skills. I’m passionate about connecting with others who possess a passion for technology and problem-solving, and I thrive in collaborative environments that foster continuous learning and growth.
 
-📪 Feel free to reach out to me, whether it’s to chat about code, collaborate on projects, or exchange ideas. You can contact me at shivendra@txstate.edu—I’m always open to professional opportunities or even just a friendly conversation. Let’s get connected!
+📪 Feel free to reach out to me, whether it’s to chat about code, collaborate on projects, or exchange ideas. You can contact me at shivendrabhagat007@gmail.com—I’m always open to professional opportunities or even just a friendly conversation. Let’s get connected!
