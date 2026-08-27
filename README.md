@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/user-attachments/assets/2cf01510-6334-44fd-8fd8-c0eaf11c2572)
 
 
-🎓 I’m a junior at Texas State University, majoring in Computer Science.
+🎓 I’m a senior at Texas State University, majoring in Computer Science.
 
 💻 I’m passionate about software development and love creating visually appealing and user-friendly websites and softwares. My skillset includes HTML, CSS, JavaScript, React, NodeJS, Python, Java and C++. I have a solid foundation in Data Structures & Algorithms (DSA), and Object-Oriented Programming (OOP), which allows me to design efficient algorithms and optimize the performance of the applications I develop.
 
