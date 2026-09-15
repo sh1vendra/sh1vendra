@@ -1,5 +1,5 @@
-![Github Banner](https://github.com/user-attachments/assets/2cf01510-6334-44fd-8fd8-c0eaf11c2572)
 
+<img width="1983" height="793" alt="newbanner" src="https://github.com/user-attachments/assets/cd46776d-daac-4b18-b23a-f1d16327c880" />
 
 🎓 I’m a senior at Texas State University, majoring in Computer Science.
 
